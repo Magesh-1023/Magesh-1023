@@ -32,8 +32,3 @@ I am a dedicated software developer with expertise in both frontend and backend 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-<!-- Add more badges similarly -->
-
-## Achievements
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
