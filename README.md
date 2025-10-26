@@ -30,4 +30,9 @@ I am a dedicated software developer with expertise in both frontend and backend 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![XPath](https://img.shields.io/badge/XPath-003399?style=for-the-badge&logoColor=white)
+![CSS Selector](https://img.shields.io/badge/CSS_Selector-1572B6?style=for-the-badge&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white)
+
 
