@@ -34,5 +34,8 @@ I am a dedicated software developer with expertise in both frontend and backend 
 ![XPath](https://img.shields.io/badge/XPath-003399?style=for-the-badge&logoColor=white)
 ![CSS Selector](https://img.shields.io/badge/CSS_Selector-1572B6?style=for-the-badge&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 
